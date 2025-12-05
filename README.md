@@ -1,1 +1,1 @@
-Hello World на Go
+Golang
